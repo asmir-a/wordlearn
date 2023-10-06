@@ -1,0 +1,7 @@
+Copyright (C) [Year] [Your Name or Your Company's Name]
+
+All Rights Reserved.
+
+Unauthorized copying, modification, distribution, use or sale of this software and associated documentation files (the "Software"), without the express written permission of the copyright holder, is strictly prohibited. 
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
